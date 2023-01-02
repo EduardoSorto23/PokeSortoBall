@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188459667859",
+    "project_id": "pokesortoball",
+    "storage_bucket": "pokesortoball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188459667859:android:5a3a378520ea2a649cd866",
+        "android_client_info": {
+          "package_name": "com.sorto.pokesortoball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188459667859-l3f2q7s3537jpj03m2bd5btfhl2jqp38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JjQWZI5MTJjM3_bsJbvk-PDAXEwm_os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188459667859-l3f2q7s3537jpj03m2bd5btfhl2jqp38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PokeSortoBall</string>
+    <!--<string name="default_web_client_id" translatable="false">188459667859-l3f2q7s3537jpj03m2bd5btfhl2jqp38.apps.googleusercontent.com</string>-->
+
+    <string name="facebook_app_id">3353100401673973</string>
+    <string name="fb_login_protocol_scheme">fb3353100401673973</string>
+    <string name="facebook_client_token">8eac587aef799e93db991f2445632b22</string>
+
+    <string name="search_pokemons">Search Pokemons</string>
+    <string name="retry">Retry</string>
+    <string name="tap_to_retry">There was an error\ntap to retry</string>
+    <string name="statistics">Base Stats</string>
+    <string name="thanks">Thanks for installing\nCheck more of my work on Github</string>
+    <string name="thanks_header">Thank you!!</string>
+    <string name="confirm_disclaimer">Continue</string>
+    <string name="scroll_up_indicator">Scroll up indicator</string>
+
+    <string name="name">Kanto Blass Team</string>
+    <string name="date">2 de marzo de 2020</string>
+    <string name="all">TODO</string>
+    <string name="title_activity_main">Teams</string>
+    <string name="subtitle_activity_main">Pokemon</string>
+    <string name="title_activity_add">New Teams</string>
+    <string name="title_activity_edit">Team Data</string>
+    <string name="name_form">Name</string>
+    <string name="number_form">Region</string>
+    <string name="url_form">Url Image</string>
+    <string name="description_form">Descriptión</string>
+    <string name="save">Save</string>
+    <string name="description">new team from the kanto region with impressive pokemons from the region.</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Regions">
+        <item>Kanto</item>
+        <item>Johto</item>
+        <item>Hoenn</item>
+        <item>Sinnoh</item>
+        <item>Unova</item>
+        <item>Kalos</item>
+        <item>Alola</item>
+        <item>Galar</item>
+    </string-array>
+</resources>
