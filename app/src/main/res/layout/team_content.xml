@@ -73,6 +73,6 @@
             android:layout_height="match_parent"
             android:contentDescription="@string/all"
             android:scaleType="centerCrop"
-            app:srcCompat="@drawable/poke" />
+            app:srcCompat="@drawable/ic_chu" />
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>

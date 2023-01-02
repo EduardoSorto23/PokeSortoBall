@@ -51,7 +51,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/poke" />
+                app:srcCompat="@drawable/ic_chu" />
 
             <View
                 android:layout_width="match_parent"
@@ -136,6 +136,6 @@
             android:layout_height="wrap_content"
             android:contentDescription="@string/all"
             android:scaleType="fitXY"
-            app:srcCompat="@drawable/poke" />
+            app:srcCompat="@drawable/ic_chu" />
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>

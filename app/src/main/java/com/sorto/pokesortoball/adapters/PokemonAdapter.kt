@@ -25,8 +25,6 @@ import com.sorto.pokesortoball.utils.getPicUrl
 
 
 
-
-//Paging Adapter belonging to paging 3 in Android jetpack, used to paginate data.
 class PokemonAdapter(private val navigate: (PokemonResult, Int, String?) -> Unit) :
     PagingDataAdapter<PokemonResult, PokemonAdapter.ViewHolder>(
         PokemonDiffCallback()
