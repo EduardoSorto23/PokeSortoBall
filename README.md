@@ -18,7 +18,7 @@ A compatible FirebaseUI client is also available for [iOS](https://github.com/fi
    1. [Compatibility](#compatibility-with-firebase--google-play-services-libraries)
    1. [Upgrading dependencies](#upgrading-dependencies)
 1. [Sample App](#sample-app)
-1. [evaluation points](#points)
+1. [evaluation points](#evaluation-points)
 
 
 ## Usage
