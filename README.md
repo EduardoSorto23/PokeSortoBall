@@ -26,10 +26,10 @@ A compatible FirebaseUI client is also available for [iOS](https://github.com/fi
 FirebaseUI has separate modules for using Firebase Realtime Database, Cloud Firestore,
 Firebase Auth, and Cloud Storage. To get started, see the individual instructions for each module:
 
-* [FirebaseUI Auth]()
-* [FirebaseUI Firestore]()
-* [FirebaseUI Database]()
-* [FirebaseUI Storage]()
+* FirebaseUI Auth
+* FirebaseUI Firestore
+* FirebaseUI Database
+* FirebaseUI Storage
 
 ## Installation
 
